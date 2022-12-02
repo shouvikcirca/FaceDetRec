@@ -1,1 +1,6 @@
 *jpg
+model_testing/LFW/matching
+model_testing/LFW/nonMatching
+model_testing/LFW/Data
+model_testing/LFW/pairsDevTest
+model_testing/LFW/.dataParser.py.swo
